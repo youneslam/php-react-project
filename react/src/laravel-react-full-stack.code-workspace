@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "php-react-project",
+			"path": "../../php-react-project"
+		}
+	],
+	"settings": {}
+}
